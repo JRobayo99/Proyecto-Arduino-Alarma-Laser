@@ -1,2 +1,0 @@
-# Proyecto-Laser-Arduino
-#  ¿Pregunta?
