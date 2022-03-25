@@ -60,7 +60,9 @@ https://colab.research.google.com/drive/1AH9IdFNH7dHWIEaQ4LMIjZW5ShW78IRL?usp=sh
  
 ### Herramientas necesarias para el desarrollo de la solución
 ------------
+![WhatsApp Image 2022-03-25 at 7 49 42 AM](https://user-images.githubusercontent.com/102251544/160124310-d568d204-dda0-449a-9574-6baa6410f9d7.jpeg)
 #### Arduino IDE
+
 El software Arduino de código abierto (IDE) facilita la escritura de código y la carga en la placa. Este software se puede utilizar con cualquier placa Arduino. (Arduino, 2022)
 
 #### Arduino UNO
