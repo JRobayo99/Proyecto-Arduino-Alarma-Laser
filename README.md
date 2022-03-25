@@ -40,40 +40,48 @@ El número 9 que es Industria,Innovación e infraestructura.
 
 ![i4](https://user-images.githubusercontent.com/87994643/160048983-3a616170-94de-4c59-9aa7-128e68ef65c9.png)
 
-Requerimientos Funcionales
+### Requerimientos Funcionales
 Los requerimientos funcionales de un sistema son el comportamiento o función particular de un sistema o software cuando se cumplen ciertas condiciones. Estos deben incluir funciones desempeñadas por pantallas específicas, descripciones de los flujos de trabajo a ser desempeñados por el sistema y otros requerimientos de negocio, cumplimiento, seguridad u otra índole. (PMOinformatica.com, 2017)
 -	Nuestro proyecto debe ser capaz de detectar cualquier objeto o persona que atraviese frente a él.
 -	Debe emitir un sonido que informe de la violación de seguridad
 -	Debe solo aceptar la contraseña propuesta
 -	No debe dejar de sonar hasta ingresar la contraseña o desactivarla
-Requerimientos No Funcionales
-1.	Descripciones de los datos a ser ingresados en el sistema
-2.	Definición de quien puede ingresar datos en el sistema
-Diagrama Relacional
+
+### Requerimientos No Funcionales
+- Descripciones de los datos a ser ingresados en el sistema
+- Definición de quien puede ingresar datos en el sistema
+
+### Diagrama Relacional
+![image](https://user-images.githubusercontent.com/98995639/160053756-55b8edf9-3e1c-45bd-867c-953dfa4108bb.png)
+
+### Diagrama De Conecciones
+![image](https://user-images.githubusercontent.com/98995639/160053819-548298ea-30ab-4b05-aea2-f58f3604611a.png)
  
- 
-Herramientas necesarias para el desarrollo de la solución
-Arduino IDE
+### Herramientas necesarias para el desarrollo de la solución
+#### Arduino IDE
 El software Arduino de código abierto (IDE) facilita la escritura de código y la carga en la placa. Este software se puede utilizar con cualquier placa Arduino. (Arduino, 2022)
-Arduino UNO
-2.1	Arduino (programa)
+
+#### Arduino UNO
 Es una placa que tiene todos los elementos necesarios para conectar periféricos a las entradas y salidas de un microcontrolador. Es decir, es una placa impresa con los componentes necesarios para que funcione el microcontrolador y su comunicación con un ordenador a través de la comunicación serial. (BeJob, 2017)
 
-Laser
+#### Laser
 El módulo KY-008 es un emisor de luz láser de color rojo y que cuenta con un pin de alimentación (S), un pin GND (-) y un tercer pin central que no sirve para nada. (El Octavo Bit, 2021)
-Protoboard
+
+#### Protoboard
 La protoboard es una placa de pruebas con numerosos orificios en los cuales se pueden insertar diferentes cables y componentes facilitando la creación de circuitos. Los orificios de la placa están conectados a través de pequeñas laminas metálicas de manera que los orificios de una misma fila están conectados entre sí. (Ferrer, 2020)
 
-Fotocelda
+#### Fotocelda
 La fotocelda es un dispositivo electrónico capaz de producir una pequeña cantidad de corriente eléctrica al ser expuesta a la luz. Esta variación es debido a una resistencia, cuyo valor en ohmios varia ante las variaciones de la luz que la fotocelda percibe (Electrotec, 2022)
-Buzzer
+
+#### Buzzer
 es un pequeño transductor capaz de convertir la energía eléctrica en sonido. Se basa en el efecto piezoeléctrico de los materiales, este efecto funciona de tal manera que cuando se aplica un voltaje el volumen del material cambia ligeramente. (UAEH, 2021)
-resistor
+#### resistor
 Un resistor es uno de los componentes electrónicos más usados en la práctica, y está diseñado con diferentes propósitos, como lo pueden ser la disipación de potencia, la generación de calor, la limitación de corriente, entre otros. Estos tienen un código de barras de colores con el cual se puede encontrar su valor y así ser usados de forma precisa en un circuito. (Anaya, 2022)
 
-Python
+#### Python
 Es un lenguaje de programación sencillo de leer y escribir que permite el desarrollo de software de manera fácil y no necesita ser compilado para ejecutar las aplicaciones escritas.  (Santander Becas, 2022)
-Resultados y conclusiones
+
+### Conclusiones
 -	Se implementaron conocimientos adquiridos de forma autónoma en el desarrollo de un proyecto que ayuda a la sostenibilidad.
 -	Se aprendieron nuevos conceptos acerca de la programación de Arduino.
 -	Los instrumentos utilizados se ensamblaron adecuadamente, dando un resultado satisfactorio.
