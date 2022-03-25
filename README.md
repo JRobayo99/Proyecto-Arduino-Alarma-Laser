@@ -97,6 +97,10 @@ Un resistor es uno de los componentes electrónicos más usados en la práctica,
 
 #### Python
 Es un lenguaje de programación sencillo de leer y escribir que permite el desarrollo de software de manera fácil y no necesita ser compilado para ejecutar las aplicaciones escritas.  (Santander Becas, 2022)
+### Resultados
+![WhatsApp Image 2022-03-24 at 10 48 19 PM (1)](https://user-images.githubusercontent.com/102251544/160128021-e102ca49-1e51-4f34-990e-4221a0f5dfb9.jpeg)
+![WhatsApp Image 2022-03-24 at 10 48 19 PM](https://user-images.githubusercontent.com/102251544/160128040-d5754bab-e2c1-49b9-bdbb-428c39dbfd86.jpeg)
+![WhatsApp Image 2022-03-24 at 10 49 16 PM](https://user-images.githubusercontent.com/102251544/160128052-51161738-35b0-4c51-a6d2-79b862078964.jpeg)
 
 ### Conclusiones
 ------------
