@@ -46,7 +46,9 @@ Link imagen: https://www.fundacionlealtad.org/wp-content/uploads/2021/03/S-WEB-G
 
 ### Diagrama Relacional
 ------------
-![image](https://user-images.githubusercontent.com/98995639/160110153-b2a7e814-d8aa-4413-b035-d780b6f8b496.png)
+![image](https://user-images.githubusercontent.com/98995639/160126325-b838c308-c953-4f9c-8959-f9943ccfb5ef.png)
+
+https://gitmind.com/app/flowchart/99f639e1076503a12efc8a5305cb4680
 
 ### Diagrama De Conecciones
 ------------
