@@ -56,7 +56,8 @@ Los requerimientos funcionales de un sistema son el comportamiento o función pa
 
 ### Diagrama De Conecciones
 ![image](https://user-images.githubusercontent.com/98995639/160053819-548298ea-30ab-4b05-aea2-f58f3604611a.png)
-https://www.youtube.com/watch?v=MMOGGFUamFg&ab_channel=LaBuhardillaDelLoco
+
+Imagen obtenida de: https://www.youtube.com/watch?v=MMOGGFUamFg&ab_channel=LaBuhardillaDelLoco
  
 ### Herramientas necesarias para el desarrollo de la solución
 #### Arduino IDE
