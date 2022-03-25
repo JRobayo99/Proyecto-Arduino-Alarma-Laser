@@ -56,6 +56,8 @@ Imagen obtenida de: https://www.youtube.com/watch?v=MMOGGFUamFg&ab_channel=LaBuh
 
 ### Código Python
 ------------
+![image](https://user-images.githubusercontent.com/98995639/160124442-a21b0372-324c-455d-8f8f-ab7cfa36a59a.png)
+
 https://colab.research.google.com/drive/1AH9IdFNH7dHWIEaQ4LMIjZW5ShW78IRL?usp=sharing
  
 ### Herramientas necesarias para el desarrollo de la solución
