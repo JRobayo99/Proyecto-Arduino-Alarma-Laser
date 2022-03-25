@@ -59,8 +59,7 @@ Imagen obtenida de: https://www.youtube.com/watch?v=MMOGGFUamFg&ab_channel=LaBuh
 ### Código Python
 ------------
 
-![image](https://user-images.githubusercontent.com/98995639/160125337-f3745c15-c22a-466e-bd9f-241d8da1d909.png)
-
+![image](https://user-images.githubusercontent.com/98995639/160129951-be99676f-9361-476f-a7a1-fd5f8692e1c5.png)
 https://colab.research.google.com/drive/1AH9IdFNH7dHWIEaQ4LMIjZW5ShW78IRL?usp=sharing
 
 ### Código Alarma con Arduino
