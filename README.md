@@ -44,17 +44,6 @@ El número 9 que es Industria,Innovación e infraestructura.
 
 Link imagen: https://www.fundacionlealtad.org/wp-content/uploads/2021/03/S-WEB-Goal-03-1024x1024.png
 
-### Requerimientos Funcionales
-Los requerimientos funcionales de un sistema son el comportamiento o función particular de un sistema o software cuando se cumplen ciertas condiciones. Estos deben incluir funciones desempeñadas por pantallas específicas, descripciones de los flujos de trabajo a ser desempeñados por el sistema y otros requerimientos de negocio, cumplimiento, seguridad u otra índole. (PMOinformatica.com, 2017)
--	Nuestro proyecto debe ser capaz de detectar cualquier objeto o persona que atraviese frente a él.
--	Debe emitir un sonido que informe de la violación de seguridad
--	Debe solo aceptar la contraseña propuesta
--	No debe dejar de sonar hasta ingresar la contraseña o desactivarla
-
-### Requerimientos No Funcionales
-- Descripciones de los datos a ser ingresados en el sistema
-- Definición de quien puede ingresar datos en el sistema
-
 ### Diagrama Relacional
 ![image](https://user-images.githubusercontent.com/98995639/160110153-b2a7e814-d8aa-4413-b035-d780b6f8b496.png)
 
