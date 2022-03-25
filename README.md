@@ -45,14 +45,17 @@ El número 9 que es Industria,Innovación e infraestructura.
 Link imagen: https://www.fundacionlealtad.org/wp-content/uploads/2021/03/S-WEB-Goal-03-1024x1024.png
 
 ### Diagrama Relacional
+------------
 ![image](https://user-images.githubusercontent.com/98995639/160110153-b2a7e814-d8aa-4413-b035-d780b6f8b496.png)
 
 ### Diagrama De Conecciones
+------------
 ![image](https://user-images.githubusercontent.com/98995639/160053819-548298ea-30ab-4b05-aea2-f58f3604611a.png)
 
 Imagen obtenida de: https://www.youtube.com/watch?v=MMOGGFUamFg&ab_channel=LaBuhardillaDelLoco
  
 ### Herramientas necesarias para el desarrollo de la solución
+------------
 #### Arduino IDE
 El software Arduino de código abierto (IDE) facilita la escritura de código y la carga en la placa. Este software se puede utilizar con cualquier placa Arduino. (Arduino, 2022)
 
@@ -77,6 +80,7 @@ Un resistor es uno de los componentes electrónicos más usados en la práctica,
 Es un lenguaje de programación sencillo de leer y escribir que permite el desarrollo de software de manera fácil y no necesita ser compilado para ejecutar las aplicaciones escritas.  (Santander Becas, 2022)
 
 ### Conclusiones
+------------
 -	Se implementaron conocimientos adquiridos de forma autónoma en el desarrollo de un proyecto que ayuda a la sostenibilidad.
 -	Se aprendieron nuevos conceptos acerca de la programación de Arduino.
 -	Los instrumentos utilizados se ensamblaron adecuadamente, dando un resultado satisfactorio.
