@@ -119,24 +119,24 @@ void sonido(){
 void setup() {
   // put your setup code here, to run once:
 
-# Programa que lee la información que ennvía el Arduino
-# y la almacena en un archivo Excel.
+//Programa que lee la información que ennvía el Arduino
+//y la almacena en un archivo Excel.
 
-# Para trabajar con archivos Excel
+//Para trabajar con archivos Excel
 import time
 
 import pandas as pd
 
-# Para trabajar con las fechas y horas
+//Para trabajar con las fechas y horas
 import datetime
 
-# Para leer los datos que envía el arduino
+//Para leer los datos que envía el arduino
 import serial
 
-# Conectarse con el arduino
+//Conectarse con el arduino
 arduino = serial.Serial(port='COM5', baudrate=115200)
 
-# Abrimos el archivo Excel con los datos
+//Abrimos el archivo Excel con los datos
 datos = pd.read_excel("datos.xlsx", index_col=0)
 
 for i in range(20):
@@ -154,7 +154,7 @@ for i in range(20):
     ultima_fila = len(datos)
     datos.loc[ultima_fila] = fila
 
-# Fin del for, guardar los datos
+//Fin del for, guardar los datos
 datos.to_excel("datos.xlsx")
 }
 
