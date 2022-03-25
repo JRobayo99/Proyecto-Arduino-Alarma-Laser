@@ -99,6 +99,7 @@ class Buzzer:
         self.Estado = False
       return self.Estado
 
+
 https://colab.research.google.com/drive/1AH9IdFNH7dHWIEaQ4LMIjZW5ShW78IRL?usp=sharing
 
 ### Código Arduino
