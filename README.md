@@ -80,5 +80,5 @@ Es un lenguaje de programación sencillo de leer y escribir que permite el desar
 -	Se implementaron conocimientos adquiridos de forma autónoma en el desarrollo de un proyecto que ayuda a la sostenibilidad.
 -	Se aprendieron nuevos conceptos acerca de la programación de Arduino.
 -	Los instrumentos utilizados se ensamblaron adecuadamente, dando un resultado satisfactorio.
--	La herramienta desarrollada puede ser en relación utilidad costo muy efectiva.
+-	La herramienta desarrollada puede ser en relación utilidad-costo muy efectiva.
 
