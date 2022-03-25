@@ -65,105 +65,12 @@ https://colab.research.google.com/drive/1AH9IdFNH7dHWIEaQ4LMIjZW5ShW78IRL?usp=sh
 
 ### Código Arduino
 
-boolean activado, deteccion;
-void setup() {
-  Serial.begin(9600);
-  pinMode(9,OUTPUT); //laser
-  digitalWrite(9,LOW);
-  activado = false;
-  deteccion = false;
-}
-void loop() {
-  if( Serial.available()!= -1 ){
+![image](https://user-images.githubusercontent.com/98995639/160127116-4edcf751-8ec4-44ff-aae3-240c213abcb8.png)
 
-    String lectura = Serial.readString();
-
-    if (lectura == "1234"){
-      activado = !activado;
-      if (activado){
-        tone(10,200,100);
-        delay(1000);
-        tone(10,200,100);
-        delay(1000);
-        tone(10,200,100);
-        digitalWrite(9,HIGH);
-        Serial.println("Alarma activada!");
-        delay(1000);
-      }
-      else{
-        digitalWrite(9,LOW);
-        deteccion = false;
-        noTone(10);
-        Serial.println("Alarma desativada...");         
-      }
-      lectura="";
-    }  
-  }  
-
-
-  if(activado){
-    int luz = analogRead(A1);
-    Serial.println(luz);
-    if(luz > 500 or deteccion == true){
-      deteccion == true;
-      sonido();
-    }
-  }
-} 
-
-
-void sonido(){
-  for(int i = 200;i<500;i++){
-    tone(10,i,10000);
-  }
-}
 ### Código Arduino 2
-void setup() {
-  // put your setup code here, to run once:
 
-//Programa que lee la información que ennvía el Arduino
-//y la almacena en un archivo Excel.
+![image](https://user-images.githubusercontent.com/98995639/160127454-f3e3010d-ce06-4307-936e-3dd096476581.png)
 
-//Para trabajar con archivos Excel
-import time
-
-import pandas as pd
-
-//Para trabajar con las fechas y horas
-import datetime
-
-//Para leer los datos que envía el arduino
-import serial
-
-//Conectarse con el arduino
-arduino = serial.Serial(port='COM5', baudrate=115200)
-
-//Abrimos el archivo Excel con los datos
-datos = pd.read_excel("datos.xlsx", index_col=0)
-
-for i in range(20):
-    info_arduino = arduino.readline()
-    time.sleep(0.5)  # Dormir medio segundo
-    info_arduino = info_arduino.decode()
-    elementos = info_arduino.split()
-    print(f'Valor raw: {elementos[0]} - Tension: {elementos[1]}')
-
-    fecha = datetime.datetime.today()
-    fecha_hoy = f"{fecha.day}/{fecha.month}/{fecha.year}"
-    ahora = f"{fecha.hour}:{fecha.minute}:{fecha.second}"
-
-    fila = [fecha_hoy, ahora, elementos[0], elementos[1]]
-    ultima_fila = len(datos)
-    datos.loc[ultima_fila] = fila
-
-//Fin del for, guardar los datos
-datos.to_excel("datos.xlsx")
-}
-
-void loop() {
-  // put your main code here, to run repeatedly:
-
-}
 ### Herramientas necesarias para el desarrollo de la solución
 ------------
 ![WhatsApp Image 2022-03-25 at 7 49 42 AM](https://user-images.githubusercontent.com/102251544/160124310-d568d204-dda0-449a-9574-6baa6410f9d7.jpeg)
