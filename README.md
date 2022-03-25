@@ -46,6 +46,7 @@ Mediante el uso de la plataforma de arduino y de python, también de componentes
 
 Los ODS (objetivos de desarrollo soostenible), en los que el proyecto esta enfocado serían dos.
 El número 3 que seria el de salud y bienestar.
+
 ![i2](https://user-images.githubusercontent.com/87994643/160049238-4fe0da67-07a4-4851-a131-5f927311c012.jpg)
 
 El número 9 que es Industria,Innovación e infraestructura.
