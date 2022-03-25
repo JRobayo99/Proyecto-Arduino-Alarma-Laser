@@ -63,11 +63,11 @@ Imagen obtenida de: https://www.youtube.com/watch?v=MMOGGFUamFg&ab_channel=LaBuh
 
 https://colab.research.google.com/drive/1AH9IdFNH7dHWIEaQ4LMIjZW5ShW78IRL?usp=sharing
 
-### Código Arduino
+### Código Alarma con Arduino
 
 ![image](https://user-images.githubusercontent.com/98995639/160127116-4edcf751-8ec4-44ff-aae3-240c213abcb8.png)
 
-### Código Arduino 2
+### Código Para Obtener Los Datos En Exel 
 
 ![image](https://user-images.githubusercontent.com/98995639/160127454-f3e3010d-ce06-4307-936e-3dd096476581.png)
 
