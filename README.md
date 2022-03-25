@@ -52,7 +52,7 @@ Los requerimientos funcionales de un sistema son el comportamiento o función pa
 - Definición de quien puede ingresar datos en el sistema
 
 ### Diagrama Relacional
-![image](https://user-images.githubusercontent.com/98995639/160109909-6f0a12c5-43e2-4b39-898c-6ab2aa83da9a.png)
+![image](https://user-images.githubusercontent.com/98995639/160110153-b2a7e814-d8aa-4413-b035-d780b6f8b496.png)
 
 ### Diagrama De Conecciones
 ![image](https://user-images.githubusercontent.com/98995639/160053819-548298ea-30ab-4b05-aea2-f58f3604611a.png)
