@@ -34,11 +34,13 @@ Mediante el uso de la plataforma de arduino y de python, también de componentes
 Los ODS (objetivos de desarrollo soostenible), en los que el proyecto esta enfocado serían dos.
 El número 3 que seria el de salud y bienestar.
 
-![image](https://user-images.githubusercontent.com/98995639/160111156-f6969aae-b9e9-4c20-ae4f-e57663ad720f.png)
+![image](https://user-images.githubusercontent.com/98995639/160111319-f9613f4f-50fd-496d-b1be-130dad9f4c92.png)
+Link imagen: https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2018/07/S_SDG-goals_icons-individual-rgb-09.png
 
 El número 9 que es Industria,Innovación e infraestructura.
 
-![image](https://user-images.githubusercontent.com/98995639/160111223-309cb3e8-7749-43d8-bebf-07f13026a459.png)
+![image](https://user-images.githubusercontent.com/98995639/160111344-631c948e-ac58-4f3a-b75a-f18a62ced990.png)
+Link imagen: https://www.fundacionlealtad.org/wp-content/uploads/2021/03/S-WEB-Goal-03-1024x1024.png
 
 ### Requerimientos Funcionales
 Los requerimientos funcionales de un sistema son el comportamiento o función particular de un sistema o software cuando se cumplen ciertas condiciones. Estos deben incluir funciones desempeñadas por pantallas específicas, descripciones de los flujos de trabajo a ser desempeñados por el sistema y otros requerimientos de negocio, cumplimiento, seguridad u otra índole. (PMOinformatica.com, 2017)
