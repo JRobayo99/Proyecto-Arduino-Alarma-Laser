@@ -1,11 +1,11 @@
 # Proyecto Sensor Detector Arduino ODS
 ### Pregunta.
 
-
+------------
 
 ¿Como se pude hacer un sistema de seguridad simple y económico?¿Esto puede garantizar el sentido de binestar general o un desarrollo tecnológico?
 
-------------
+
 
 
 ### Introducción.
